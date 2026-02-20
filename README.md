@@ -7,3 +7,5 @@
 [Go to my Notes](comp1238.md)
 ## Course Notes
 [COMP1238 Notes](comp1238.md)
+
+[My Repo](https://github.com/Nisrin-nourhussien/notes/tree/main)
