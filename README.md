@@ -4,3 +4,4 @@
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca)
+[Go to my Notes](comp1238.md)
