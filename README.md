@@ -5,3 +5,5 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca)
 [Go to my Notes](comp1238.md)
+## Course Notes
+[COMP1238 Notes](comp1238.md)
